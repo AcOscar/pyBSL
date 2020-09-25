@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "pyRevit Basel Tools",
+    "description": "IronPython Scripts for Autodesk Revit",
+    "author": "Holger Rasch",
+    "author_profile": "",
+    "url": "",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
